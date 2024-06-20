@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718875785 source:c:\users\rafleet akhtar\documents\c++ learning\calculator\main.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+
